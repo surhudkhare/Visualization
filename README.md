@@ -1,2 +1,2 @@
 # Visualization
-Experimenting with visualization libraries
+Experimenting with visualization libraries - matplotlib, seaborn, bokeh
